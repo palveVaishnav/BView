@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Bookee",
+    "version": "1.0",
+    "permissions": [
+        "tabs",
+        "bookmarks"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "16": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    }
+}
