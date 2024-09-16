@@ -24,6 +24,10 @@ BView is a Chrome extension that organizes and displays your bookmarks in a visu
 3. **View Uncategorized Bookmarks**: Click on "Uncategorized Bookmarks" to see bookmarks that are not inside any folder.
 4. **Open Bookmarks**: Each bookmark is displayed as a card. Click the **Visit** button on any card to open the bookmark in a new tab.
 
+## Screenshot.
+![image](https://github.com/user-attachments/assets/ce46c18a-6c6a-41ba-809c-acf017c8ffd5)
+![image](https://github.com/user-attachments/assets/d7feaa5f-093c-4ead-acfe-ae4fc2b37b0f)
+
 ## Folder Structure
 
 ```plaintext
